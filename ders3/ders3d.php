@@ -7,7 +7,7 @@
 </head>
 <body>
 
-
+<form>
 <h3>Global Değişkenler</h3>
 <h4>$_FILES</h4>
 
